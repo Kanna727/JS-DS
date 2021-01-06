@@ -1,0 +1,23 @@
+{
+  "name": "js-ds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanna727/JS-DS.git"
+  },
+  "author": "Prasanth Kanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanna727/JS-DS/issues"
+  },
+  "homepage": "https://github.com/Kanna727/JS-DS#readme",
+  "type": "module",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.17.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
